@@ -1,0 +1,171 @@
+/* Nav */
+
+/* Social */
+#home{
+    width: 1330px;
+    height: 100vh;
+}
+#navbar-font{
+    font-size: 16px;
+}
+#bct{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.social{
+    position:fixed;
+    right: 5%;
+    top: 27%;
+    text-shadow: 0 0 3px #000;
+}
+#about{
+    position:relative;
+    left: 20px;
+    width: 1200px;
+    height: 700px;
+    background-color:#212121;
+    color: white;
+}
+#pp{
+    width: 250px;
+    height: 250px;
+    margin-top:-20px;
+    margin-left: 75px;
+    margin-bottom: 50px;
+    color: #fff;
+    border-radius: 145px;
+}
+#resume{
+    position: relative;
+    left: 130px;
+    margin-top: 50px;
+    background-color: white;
+    width: 1200px;
+    height: 700px;
+    color: white;
+}
+.resume-font{
+    color:black;
+    margin-top: 125px;
+    margin-left: 125px;
+}
+#resume-work{
+    position: relative;
+    left: 20px;
+    margin-top: 50px;
+    background-color: #212121;
+    width: 1200px;
+    height: 700px;
+    color: white;
+}
+.works-font{
+    color:white;
+    margin-top: 125px;
+    margin-left: 130px;
+}
+#portfolio{
+    position: relative;
+    left: 130px;
+    font-size: 16px;
+    margin-top: 50px;
+    background-color: white;
+    width: 1200px;
+    height: 700px;
+    color: black;
+}
+#portfolio h2{
+    color: #212121;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#portfolio02{
+    position: relative;
+    left: 20px;
+    font-size: 16px;
+    margin-top: 50px;
+    background-color: #212121;
+    width: 1200px;
+    height: 700px;
+    color: white;
+}
+#portfolio02 h2{
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+#portfolio02 h3{
+    color: white;
+    margin-top: 70px;
+    margin-left: 90px;
+    padding-bottom: 20px;
+}
+#portfolio02 p{
+    color: white;
+    margin-top: 230px;
+}
+#skills{
+    position: relative;
+    left: 130px;
+    font-size: 16px;
+    margin-top: 50px;
+    background-color: white;
+    width: 1200px;
+    height: 500px;
+    color: black;
+}
+#contact{
+    position: relative;
+    left: 20px;
+    font-size: 16px;
+    margin-top: 50px;
+    background-color: #212121;
+    width: 1200px;
+    height: 850px;
+    color: white;
+}
+.contact-title{
+    text-align: center;
+    margin-top: 50px;
+}
+.contact-message ul li label{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    font-size: 24px;
+}
+#table-message{
+    margin-left: 100px;
+}
+#table-message tr td{
+    text-align: left;
+    vertical-align: top;
+    padding: 20px;
+}
+.contact-address{
+    color: rgb(209, 209, 209);
+    padding-left: 125px;
+}
+.skills-content{
+    margin-top: 75px;
+    margin-left: 100px;
+}
+.skills-content h2{
+    text-align: center;
+    margin-left: -100px;
+}
+.skills-content h4{
+    margin-top: 50px;
+}
+.skills-content img{
+    position: relative;
+    left: 24.5%;
+    margin-top: 60px;
+    margin-left: 25px;
+    width: 150px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 100px;
+}
